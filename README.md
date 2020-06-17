@@ -14,7 +14,7 @@ Elle est également disponible sur le drive dont le lien est donné ci-dessous.
 
 _____ ___
 
-**Autres liens utiles **
+**Autres liens utiles**
 
 L'intégralité des fichiers sont disponibles sur **GoogleDrive**  :
 

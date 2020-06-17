@@ -2,11 +2,13 @@ README / PESTACLE
 
 La lecture du poème est nécessaire pour le bon déroulement du projet. Vous le trouverez en format md sur le Github, mais également en format PDF. Veuillez le garder près de vous lors du test de l'application.
 
+L'application est téléchargeable dans l'option "Releases" en format compressé.
+
 ! Notes aux Usagers de Mac / et / ou problème technique sur Windows !
 
 Ce projet s'appuie sur la fonctionnalité "Cortana" de reconnaissance vocale de Windows. Il n'est donc pas exportable sur MAC. Néanmoins, une vidéo est à disposition pour visualiser mon projet pour les utilisateurs Apple, mais également en cas de problèmes techniques sur Windows.
 
-Cette vidéo est disponible sous ce lien VIMEO protégée par un mot de passe (qui est "Pestacle_2020"):
+Cette vidéo est disponible sur VIMEO, protégée par un mot de passe (qui est "Pestacle_2020"), où les passages du poème sont sous-titrés. Voici le lien :
 
 [Vid&eacute;o_Pestacle_MyriamJung sur Vimeo](https://vimeo.com/430063281)
 

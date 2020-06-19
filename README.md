@@ -4,7 +4,7 @@
 
 **Le Poème**
 
-La lecture du poème est <u>nécessaire pour le bon déroulement du projet</u>, car c'est un projet à reconnaissance vocale, et certains mots déclenchent les actions de mon application. Vous le trouverez en [format md sur le Github](https://github.com/myrjun/PESTACLE/blob/master/Po%C3%A8me.md), mais également en [format PDF](https://github.com/myrjun/PESTACLE/blob/master/po%C3%A8me.pdf). Veuillez le garder près de vous lors du test de l'application.
+La lecture du poème est <u>nécessaire pour le bon déroulement du projet</u>, car c'est un projet à reconnaissance vocale, et certains mots déclenchent les actions de mon application. Vous le trouverez en [format md](https://github.com/myrjun/PESTACLE/blob/master/Po%C3%A8me.md) sur le Github, mais également en [format PDF](https://github.com/myrjun/PESTACLE/blob/master/po%C3%A8me.pdf). Veuillez le garder près de vous lors du test de l'application.
 
 ****
 

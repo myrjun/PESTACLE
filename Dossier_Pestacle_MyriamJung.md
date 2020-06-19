@@ -67,13 +67,13 @@ Il s’agit néanmoins d’une version présentable et fonctionnelle, qui a larg
 
 Voici les liens vers les versions les plus récentes des composants de ce projet :
 
-<u>Le poème</u> en [version PDF]([PESTACLE/Poème.md at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Po%C3%A8me.md)), et en [version md]([PESTACLE/poème.pdf at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/po%C3%A8me.pdf)) sur Github.
+<u>Le poème</u> en [version PDF](https://github.com/myrjun/PESTACLE/blob/master/Po%C3%A8me.md), et en [version md](https://github.com/myrjun/PESTACLE/blob/master/po%C3%A8me.pdf) sur Github.
 
-<u>Mon dossier de production</u> en [version PDF]([PESTACLE/Dossier_Pestacle_MyriamJung.md at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.md)), ainsi qu'en [version md]([PESTACLE/Dossier_Pestacle_MyriamJung.pdf at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.pdf)) sur Github.
+<u>Mon dossier de production</u> en [version PDF](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.md), ainsi qu'en [version md](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.pdf) sur Github.
 
-<u>Mon application</u> en format compressée sur [Google Drive]([Pestacle_Application compressée – Google Drive](https://drive.google.com/drive/folders/1qB6Ul5mDZIh2E1DVCHRrDMJmAqoL9ejY?usp=sharing)) ainsi que sur [Github]([Releases · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/releases)).
+<u>Mon application</u> en format compressée sur [Google Drive](https://drive.google.com/drive/folders/1qB6Ul5mDZIh2E1DVCHRrDMJmAqoL9ejY?usp=sharing) ainsi que sur [Github](https://github.com/myrjun/PESTACLE/releases).
 
-L'intégralité des sons utilisés dans mon projet, que j'ai réalisé par mes propres moyens, se trouvent [ici]([Son – Google Drive](https://drive.google.com/drive/folders/1Jo4zJ-IRaawzIYgELI-Awk1Y6HiQvr9D?usp=sharing)). Et vous retrouverez la documentation autour de mon modèle 3D [ici]([3D – Google Drive](https://drive.google.com/drive/folders/1QVE6rcu9ipujbCcrwvPnUNde74_HE60G?usp=sharing)).
+L'intégralité des sons utilisés dans mon projet, que j'ai réalisé par mes propres moyens, se trouvent [ici](https://drive.google.com/drive/folders/1Jo4zJ-IRaawzIYgELI-Awk1Y6HiQvr9D?usp=sharing). Et vous retrouverez la documentation autour de mon modèle 3D [ici](https://drive.google.com/drive/folders/1QVE6rcu9ipujbCcrwvPnUNde74_HE60G?usp=sharing).
 
 Enfin, <u>la vidéo de démonstration</u> se trouve sur VIMEO, sous ce lien :
 

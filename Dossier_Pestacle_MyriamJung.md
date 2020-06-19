@@ -65,6 +65,22 @@ Etat d’avancement du projet
 Mon projet se situe à un stade viable. Plusieurs améliorations et retouches peuvent être faites, notamment en terme d’animation et de lumière, pour que le son s’y adapte mieux. Il y a possibilité d’optimiser les scripts également.
 Il s’agit néanmoins d’une version présentable et fonctionnelle, qui a largement dépassé le stade de prototype.
 
+Voici les liens vers les versions les plus récentes des composants de ce projet :
+
+<u>Le poème</u> en [version PDF]([PESTACLE/Poème.md at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Po%C3%A8me.md)), et en [version md]([PESTACLE/poème.pdf at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/po%C3%A8me.pdf)) sur Github.
+
+<u>Mon dossier de production</u> en [version PDF]([PESTACLE/Dossier_Pestacle_MyriamJung.md at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.md)), ainsi qu'en [version md]([PESTACLE/Dossier_Pestacle_MyriamJung.pdf at master · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/blob/master/Dossier_Pestacle_MyriamJung.pdf)) sur Github.
+
+<u>Mon application</u> en format compressée sur [Google Drive]([Pestacle_Application compressée – Google Drive](https://drive.google.com/drive/folders/1qB6Ul5mDZIh2E1DVCHRrDMJmAqoL9ejY?usp=sharing)) ainsi que sur [Github]([Releases · myrjun/PESTACLE · GitHub](https://github.com/myrjun/PESTACLE/releases)).
+
+L'intégralité des sons utilisés dans mon projet, que j'ai réalisé par mes propres moyens, se trouvent [ici]([Son – Google Drive](https://drive.google.com/drive/folders/1Jo4zJ-IRaawzIYgELI-Awk1Y6HiQvr9D?usp=sharing)). Et vous retrouverez la documentation autour de mon modèle 3D [ici]([3D – Google Drive](https://drive.google.com/drive/folders/1QVE6rcu9ipujbCcrwvPnUNde74_HE60G?usp=sharing)).
+
+Enfin, <u>la vidéo de démonstration</u> se trouve sur VIMEO, sous ce lien :
+
+[Vid&eacute;o priv&eacute;e sur Vimeo](https://vimeo.com/430063281)
+
+Elle est protégée par un mot de passe, soit "Pestacle_2020".
+
 ____
 
 Calendrier de production
